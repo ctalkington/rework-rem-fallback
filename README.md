@@ -33,7 +33,7 @@ var out14 = rework(css).use(remFallback(14)).toString();
 
 ```css
 .main-header {
-  width: 5rem
+  width: 5rem;
 }
 ```
 
@@ -42,7 +42,7 @@ yields:
 ```css
 .main-header {
   width: 80px;
-  width: 5rem
+  width: 5rem;
 }
 ```
 
