@@ -1,14 +1,5 @@
-.basic {
+.custom-base {
   padding-bottom: 2px;
   padding-top: 1rem;
   width: 2rem;
-}
-
-.decimals {
-  padding-top: 1.2rem;
-  width: 2.5rem;
-}
-
-.multiple-values {
-  padding: 1rem 2rem 3rem 4rem;
 }

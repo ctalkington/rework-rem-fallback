@@ -1,4 +1,4 @@
-.basic {
+.base {
   padding-bottom: 2px;
   padding-top: 1rem;
   width: 2rem;
@@ -11,4 +11,12 @@
 
 .multiple-values {
   padding: 1rem 2rem 3rem 4rem;
+}
+
+@media only screen and (min-width: 480px) {
+  .mq {
+    margin: 1rem 2rem 3rem 4rem;
+    padding-bottom: 2px;
+    width: 2.5rem;
+  }
 }
