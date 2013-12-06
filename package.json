@@ -1,0 +1,26 @@
+{
+  "name": "rework-rem-fallback",
+  "version": "1.0.0",
+  "description": "Add pixel fallback to CSS rules using rem units",
+  "keywords": [
+    "css",
+    "rework",
+    "rem"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rework-visit": "1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "rework": "~0.18.3",
+    "chai": "~1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctalkington/rework-rem-fallback.git"
+  },
+  "scripts": {
+    "test": "mocha --no-colors"
+  }
+}

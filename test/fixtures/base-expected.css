@@ -1,0 +1,19 @@
+.basic {
+  padding-bottom: 2px;
+  padding-top: 16px;
+  padding-top: 1rem;
+  width: 32px;
+  width: 2rem;
+}
+
+.decimals {
+  padding-top: 19px;
+  padding-top: 1.2rem;
+  width: 40px;
+  width: 2.5rem;
+}
+
+.multiple-values {
+  padding: 16px 32px 48px 64px;
+  padding: 1rem 2rem 3rem 4rem;
+}
