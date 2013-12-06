@@ -1,4 +1,4 @@
-# rework-rem-fallback
+# rework-rem-fallback [![Build Status](https://travis-ci.org/ctalkington/rework-rem-fallback.png?branch=master)](https://travis-ci.org/ctalkington/rework-rem-fallback)
 
 A [Rework](https://github.com/visionmedia/rework) plugin to add pixel fallback for properties using rem units.
 This is a build time workaround for browsers that don't understand the rem unit. (cough IE<9)
